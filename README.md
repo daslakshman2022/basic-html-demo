@@ -1,2 +1,2 @@
-# basic-html-demo-project
+# basic-html-project
 This is my first html project
